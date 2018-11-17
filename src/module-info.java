@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Sedinka
+ *
+ */
+module Employee {
+}
